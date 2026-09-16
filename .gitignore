@@ -1,0 +1,12 @@
+﻿.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+*.spec
+*.log
+*.zip
+*.dxf
+*.png
+*.pdf
+*.projetolaser
